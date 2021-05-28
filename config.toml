@@ -22,10 +22,8 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "https://github.com/apieszka"
-  Email         = ""
-  Twitter       = ""
-  LinkedIn      = "https://www.linkedin.com/in/aleksandrapieszka/"
+  Github        = "apieszka"
+  LinkedIn      = "aleksandrapieszka"
   
 
 ## Main Menu
