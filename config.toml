@@ -22,14 +22,11 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
+  Github        = "https://github.com/apieszka"
+  Email         = ""
+  Twitter       = ""
+  LinkedIn      = "https://www.linkedin.com/in/aleksandrapieszka/"
+  
 
 ## Main Menu
 [[menu.main]]
