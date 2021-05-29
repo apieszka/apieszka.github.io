@@ -42,3 +42,8 @@ theme = "hugo-sustain"
   identifier = "resume"
   weight = 300
   url = "/resume/"
+[[menu.main]]
+  name = "about me"
+  identifier = "about"
+  weight = 400
+  url = "/about/"
