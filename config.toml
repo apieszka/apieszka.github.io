@@ -13,9 +13,9 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "img/profile.jpg"
+  avatar = "img/profile2.jpg"
   author = "Aleksandra Pieszka"
-  description = "Blog Oli Pieszki"
+  description = "Blog osobisty"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = ["css/additional.css"]
