@@ -1,6 +1,6 @@
 ---
 title: "Lessons From the Trail"
-date: 2022-04-03T16:33:01+02:00
+date: 2022-04-03T17:25:28+02:00
 draft: false
 ---
 
