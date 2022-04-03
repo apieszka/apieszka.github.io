@@ -1,10 +1,10 @@
 ---
 title: "Lessons From the Trail"
 date: 2022-04-03T16:33:01+02:00
-draft: true
+draft: false
 ---
 
-* Originally this text was written at 01/08/2021
+*Originally this text was written at 01/08/2021*
 
     Two days ago, a little bit later than I planned I managed to go hiking with my sister. I must say that it was rather easy and not demanding trail. It was the very first expedition in this new year and I wanted to stand on the mountain path as soon as possible no matter at what level the trail is. Our tour started in my home. Here we prepared hot, sweetened tea with lemon, two bananas, flashlights, a map and a power bank - the most important items in the mountains. Then we took my reliable car and went to Brenna.
 
