@@ -1,8 +1,12 @@
+.h1 {
+    text-align: center;
+}
+
 .avatar {
-	width: 50%;
-	margin: 0 auto;
+    width: 50%;
+    margin: 0 auto;
 }
 
 .avatar img {
-	width: 100%;
+    width: 100%;
 }
