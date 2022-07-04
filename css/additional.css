@@ -2,10 +2,9 @@
     text-align: center;
 }
 
-.container p img,
-.img-responsive {
+#profilowe {
     display: block;
     height: auto;
     margin: 2rem auto;
-    max-width: 50%;
+    max-width: 100%;
 }
