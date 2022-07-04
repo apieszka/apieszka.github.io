@@ -1,9 +1,14 @@
 {{ define "main" }} {{ partial "header" . }}
 
+<div>
+    <h1>Aleksandra Pieszka</h1>
+</div>
+
+
 <section id="about">
     <div class="container">
         <div class="avatar mb-5">
-            <img class="rounded-circle" src="{{ .Site.Params.avatar }}" alt="Responsive image">
+            <img class="w3-card-4" src="{{ .Site.Params.avatar }}" alt="Responsive image">
         </div>
         {{ .Content }} {{ partial "social.html" . }}
     </div>

@@ -13,7 +13,7 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "img/profile2.jpg"
+  avatar = "img/me.jpeg"
   author = "Aleksandra Pieszka"
   description = "Blog osobisty"
 
@@ -28,10 +28,10 @@ theme = "hugo-sustain"
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
+  name = "Blog"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "posts"
+  url = "/posts/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
