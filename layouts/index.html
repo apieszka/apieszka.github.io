@@ -1,6 +1,6 @@
 {{ define "main" }} {{ partial "header" . }}
 
-<h1 id="blogName">Aleksandra Pieszka</h1>
+<title>{{ .Title }} {{ default "::" .Site.Params.titleSeparator }} {{ .Site.Title }}</title>
 
 <section id="about">
     <div class="container">
